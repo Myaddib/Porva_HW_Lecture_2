@@ -66,8 +66,8 @@ public class Main {
         System.out.println("Task 7: The smallest value of the array = " + minn_array);// 7.   Вивести найменше значення в масиві
         System.out.println("Task 8: The largest value of the array = " + maxx_array); // 8.   Вивести найбільше значення масиву
 
-        for (int i = 0; i < 20; i++){
-               System.out.println( (char)i); // 10.  Вивести перших 20 символів з таблиці ASCI
+        for (int i = 0; i < 20; i++) {
+            System.out.print((char) i+"  "); // 10.  Вивести перших 20 символів з таблиці ASCI
         }
     }
 }
