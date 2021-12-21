@@ -67,7 +67,7 @@ public class Main {
         System.out.println("Task 8: The largest value of the array = " + maxx_array); // 8.   Вивести найбільше значення масиву
 
         for (int i = 0; i < 20; i++) {
-            System.out.print((char) i+"  "); // 10.  Вивести перших 20 символів з таблиці ASCI
+            System.out.print((char) i + "  "); // 10.  Вивести перших 20 символів з таблиці ASCI
         }
     }
 }
